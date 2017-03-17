@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{Abadi2016TSL}
+M.~Abadi, P.~Barham, J.~Chen, Z.~Chen, A.~Davis, J.~Dean, M.~Devin,
+  S.~Ghemawat, G.~Irving, M.~Isard, M.~Kudlur, J.~Levenberg, R.~Monga,
+  S.~Moore, D.~G. Murray, B.~Steiner, P.~Tucker, V.~Vasudevan, P.~Warden,
+  M.~Wicke, Y.~Yu, and X.~Zheng.
+\newblock {TensorFlow: A System for Large-scale Machine Learning}.
+\newblock In {\em Proceedings of the 12th USENIX Conference on Operating
+  Systems Design and Implementation}, OSDI'16, pages 265--283, 2016.
+
+\bibitem{Dean2012LSD}
+J.~Dean, G.~S. Corrado, R.~Monga, K.~Chen, M.~Devin, Q.~V. Le, M.~Z. Mao,
+  M.~Ranzato, A.~Senior, P.~Tucker, K.~Yang, and A.~Y. Ng.
+\newblock {Large Scale Distributed Deep Networks}.
+\newblock In {\em Proceedings of the 25th International Conference on Neural
+  Information Processing Systems}, NIPS'12, pages 1223--1231, 2012.
+
+\bibitem{Matveev2017MPC}
+A.~Matveev, Y.~Meirovitch, H.~Saribekyan, W.~Jakubiuk, T.~Kaler, G.~Odor,
+  D.~Budden, A.~Zlateski, and N.~Shavit.
+\newblock {A Multicore Path to Connectomics-on-Demand}.
+\newblock In {\em Proceedings of the 22Nd ACM SIGPLAN Symposium on Principles
+  and Practice of Parallel Programming}, PPoPP '17, pages 267--281, 2017.
+
+\end{thebibliography}
